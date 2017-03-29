@@ -1,6 +1,6 @@
 class TestMailer < ApplicationMailer
-    default from: "afeiship@163.com"
+    default from: "mxbeijingmi@163.com"
     def sendmail
-        mail(to: "88603982@qq.com", subject: 'Afei test from mailer!!!')
+        mail(to: "1290657123@qq.com", subject: '测试换个邮箱？')
     end
 end

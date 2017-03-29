@@ -60,7 +60,7 @@ Rails.application.configure do
       :port=> 25,
       :domain=> "163.com",
       :authentication=> :login,
-      :user_name=> "admin@163.com",#你的邮箱
-      :password=> 'password'      #你的密码
+      :user_name => "mxbeijingmi@163.com",  
+      :password => "menxu0725" 
   }
 end
